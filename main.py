@@ -9,7 +9,7 @@ from textblob import TextBlob
 Author: Joseph Rafferty, the licence text (MIT) is at the bottom of this file.
 
 
-This code relises on libraries for correct operation
+This code relies on libraries for correct operation
 please ensure that matplotlib, xlrd and xlwt are avaiable.
 
     pip install xlrd
